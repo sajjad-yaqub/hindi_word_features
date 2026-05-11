@@ -5,6 +5,7 @@ Use for guaging Hindi word and text readability
 
 Just run - 
 !pip install hindi_word_features
+
 import hin_feature
 
 To know about features run - 
